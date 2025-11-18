@@ -1,0 +1,11 @@
+# Dependências Node.js
+node_modules/
+
+# Arquivos SAS
+dss_organizador.sas
+
+# Ambiente virtual Python
+venv/
+
+# Ignora venv apenas na pasta backend
+backend/venv/
